@@ -1,0 +1,9 @@
+Exception in thread "ProducerObserver" java.lang.ArrayIndexOutOfBoundsException: 0
+	at cs601.blkqueue.ThreadObserver.run(ThreadObserver.java:36)
+	at java.lang.Thread.run(Thread.java:745)
+Exception in thread "ProducerObserver" java.lang.ArrayIndexOutOfBoundsException: 0
+	at cs601.blkqueue.ThreadObserver.run(ThreadObserver.java:36)
+	at java.lang.Thread.run(Thread.java:745)
+Exception in thread "ProducerObserver" java.lang.ArrayIndexOutOfBoundsException: 0
+	at cs601.blkqueue.ThreadObserver.run(ThreadObserver.java:36)
+	at java.lang.Thread.run(Thread.java:745)
